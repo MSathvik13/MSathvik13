@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MSathvik13
-- 👀 I’m interested in Python and ReactJS
-- 💞️ I’m looking to collaborate on Web Application Developement using Javascript+React.js+Node.js+Express.js+MongoDB
+- 👀 I’m interested in Java + Spring Boot and Angular
 - 📫 How to reach me, ping me over LinkedIn "https://www.linkedin.com/in/sathvik-murthy-m-s-6a9358200"
 
 <!---
