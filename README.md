@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MSathvik13
-- 👀 I’m interested in Java + Spring Boot and Angular
+- 👀 I’m interested in Java + Spring Boot + Microservices + Spring.AI
 - 📫 How to reach me, ping me over LinkedIn "https://www.linkedin.com/in/sathvik-murthy-m-s-6a9358200"
 
 <!---
